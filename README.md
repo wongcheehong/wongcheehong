@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @wongcheehong
 - 👀 I’m interested in Web development, mobile development, cyber security and machine learning.
+- 👨‍💻 Technology I have learnt before: Django, Node.JS, React
 - 🌱 I’m currently learning React and Flutter
 - 💞️ I’m looking to collaborate on web or mobile development project.
 - 📫 Contact me by email : wongcheehong2001@gmail.com
