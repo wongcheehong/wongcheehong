@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @wongcheehong. A student from MMU Malaysia who has passionate in coding and learning new technology ✨
+- 👋 Hi, I’m @wongcheehong. A mobile/web developer who has passionate in coding and learning new technology ✨
 - 👀 I’m interested in Web development🌐, mobile development📱, cyber security🛡️ & machine learning🤖.
 - 👨‍💻 Technology I have learnt before: Django, Node.JS, React, React Native, Flutter💙
 - 💻 Programming languages that I actively use: Python🐍, JavaScript & Dart🎯
-- 🌱 I’m currently still actively learning Flutter💙
+- 🌱 I’m actively using Flutter💙
 - 💞️ I’m looking to collaborate on web🌐 or mobile development📱 project.
 - 📫 Contact me by email : wongcheehong2001@gmail.com
 
